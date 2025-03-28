@@ -1,0 +1,18 @@
+# SwiftUI Requirements
+iOS>=15.0
+Xcode>=13.0
+Swift>=5.5
+
+# Development Tools
+CocoaPods>=1.11.0  # Optional, for dependency management
+SwiftLint>=0.50.0  # Optional, for code style enforcement
+SwiftFormat>=0.50.0  # Optional, for code formatting
+
+# Testing
+XCTest>=13.0  # Built-in testing framework
+SwiftUI-Preview>=1.0  # For SwiftUI previews
+
+# Optional Dependencies
+Charts>=4.0  # For data visualization
+Combine>=1.0  # For reactive programming
+CoreData>=1.0  # For data persistence 
