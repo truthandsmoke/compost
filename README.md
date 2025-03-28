@@ -46,7 +46,7 @@ A sophisticated SwiftUI-based iOS application for simulating and analyzing compo
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/truthandsmoke/compost
 ```
 
 2. Open the project in Xcode:
@@ -125,4 +125,22 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Based on scientific research in composting and microbial ecology
 - Inspired by real-world compost tea brewing practices
-- Developed for educational and research purposes 
+- Developed for educational and research purposes.
+
+SOL
+5CbPgKffMCDRsQsAXxm5vUJpy9HuLxg5HByKbfFszqEH
+
+Bitcoin
+bitcoin:1FH3yda1povxot1nY9jZYoS4ZSjVQUx9t7
+
+Ethereum
+0x7316FB87Ee1DEA2F41A0Da41E3948dda65948b16
+
+Zelle
+https://enroll.zellepay.com/qr-codes?data=ewogICJuYW1lIiA6ICJOQVRIQU4gQVNTQUYiLAogICJhY3Rpb24iIDogInBheW1lbnQiLAogICJ0b2tlbiIgOiAiKDkyNSkgNDUwLTk1NTAiCn0=
+
+PayPal
+https://www.paypal.com/qrcodes/p2pqrc/WFEUVNJPT35CY
+
+CashApp
+$beggarbillionaire
