@@ -127,14 +127,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Inspired by real-world compost tea brewing practices
 - Developed for educational and research purposes.
 
-SOL
-5CbPgKffMCDRsQsAXxm5vUJpy9HuLxg5HByKbfFszqEH
-
-Bitcoin
-bitcoin:1FH3yda1povxot1nY9jZYoS4ZSjVQUx9t7
-
-Ethereum
-0x7316FB87Ee1DEA2F41A0Da41E3948dda65948b16
+ Bitcoin
+bc1qmgn5dgunpdsw2mdzp26nhhwtu9a2np65rwusda
 
 Zelle
 https://enroll.zellepay.com/qr-codes?data=ewogICJuYW1lIiA6ICJOQVRIQU4gQVNTQUYiLAogICJhY3Rpb24iIDogInBheW1lbnQiLAogICJ0b2tlbiIgOiAiKDkyNSkgNDUwLTk1NTAiCn0=
@@ -142,5 +136,6 @@ https://enroll.zellepay.com/qr-codes?data=ewogICJuYW1lIiA6ICJOQVRIQU4gQVNTQUYiLA
 PayPal
 https://www.paypal.com/qrcodes/p2pqrc/WFEUVNJPT35CY
 
-CashApp
+Cashapp 
 $beggarbillionaire
+
